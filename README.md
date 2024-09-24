@@ -1,2 +1,2 @@
 # ANURAG-demo
-anurag pratap author
+this is my first author - Anurag pratap 
